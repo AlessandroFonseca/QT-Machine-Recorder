@@ -27,11 +27,13 @@ CONFIG += c++11
 SOURCES += \
         main.cpp \
         mainwindow.cpp \
-    gpio.cpp
+    gpio.cpp \
+    vars.cpp
 
 HEADERS += \
         mainwindow.h \
-    gpio.h
+    gpio.h \
+    vars.h
 
 FORMS += \
         mainwindow.ui

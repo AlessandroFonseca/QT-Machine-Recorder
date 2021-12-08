@@ -19,6 +19,9 @@
     <verstretch>0</verstretch>
    </sizepolicy>
   </property>
+  <property name="cursor">
+   <cursorShape>BlankCursor</cursorShape>
+  </property>
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
@@ -35,8 +38,8 @@ background-color: rgb(209, 209, 209);</string>
      <rect>
       <x>160</x>
       <y>90</y>
-      <width>102</width>
-      <height>30</height>
+      <width>111</width>
+      <height>61</height>
      </rect>
     </property>
     <property name="styleSheet">
@@ -52,8 +55,8 @@ selection-color: rgb(0, 85, 255);</string>
      <rect>
       <x>280</x>
       <y>90</y>
-      <width>106</width>
-      <height>30</height>
+      <width>121</width>
+      <height>61</height>
      </rect>
     </property>
     <property name="autoFillBackground">
@@ -71,9 +74,9 @@ selection-color: rgb(0, 85, 255);</string>
     <property name="geometry">
      <rect>
       <x>170</x>
-      <y>180</y>
-      <width>80</width>
-      <height>30</height>
+      <y>190</y>
+      <width>91</width>
+      <height>61</height>
      </rect>
     </property>
     <property name="styleSheet">
@@ -88,9 +91,9 @@ selection-color: rgb(0, 85, 255);</string>
     <property name="geometry">
      <rect>
       <x>290</x>
-      <y>180</y>
-      <width>80</width>
-      <height>30</height>
+      <y>190</y>
+      <width>101</width>
+      <height>61</height>
      </rect>
     </property>
     <property name="styleSheet">
@@ -104,8 +107,8 @@ selection-color: rgb(0, 85, 255);</string>
    <widget class="QLabel" name="lblSTAR">
     <property name="geometry">
      <rect>
-      <x>190</x>
-      <y>130</y>
+      <x>180</x>
+      <y>160</y>
       <width>68</width>
       <height>22</height>
      </rect>
@@ -120,8 +123,8 @@ selection-color: rgb(0, 85, 255);</string>
    <widget class="QLabel" name="lblSTYLUS">
     <property name="geometry">
      <rect>
-      <x>190</x>
-      <y>230</y>
+      <x>180</x>
+      <y>250</y>
       <width>68</width>
       <height>22</height>
      </rect>
@@ -137,7 +140,7 @@ selection-color: rgb(0, 85, 255);</string>
     <property name="geometry">
      <rect>
       <x>300</x>
-      <y>230</y>
+      <y>250</y>
       <width>68</width>
       <height>22</height>
      </rect>
@@ -173,10 +176,10 @@ color: rgb(0, 0, 0);</string>
    <widget class="QPushButton" name="btnLOCK">
     <property name="geometry">
      <rect>
-      <x>400</x>
+      <x>410</x>
       <y>90</y>
-      <width>113</width>
-      <height>30</height>
+      <width>131</width>
+      <height>61</height>
      </rect>
     </property>
     <property name="styleSheet">
@@ -191,9 +194,9 @@ selection-color: rgb(0, 85, 255);</string>
     <property name="geometry">
      <rect>
       <x>420</x>
-      <y>180</y>
-      <width>80</width>
-      <height>30</height>
+      <y>190</y>
+      <width>91</width>
+      <height>61</height>
      </rect>
     </property>
     <property name="styleSheet">
@@ -208,9 +211,9 @@ selection-color: rgb(0, 85, 255);</string>
     <property name="geometry">
      <rect>
       <x>30</x>
-      <y>180</y>
-      <width>80</width>
-      <height>30</height>
+      <y>190</y>
+      <width>111</width>
+      <height>61</height>
      </rect>
     </property>
     <property name="styleSheet">
@@ -224,9 +227,9 @@ selection-color: rgb(0, 85, 255);</string>
    <widget class="QLabel" name="lblFWD">
     <property name="geometry">
      <rect>
-      <x>50</x>
-      <y>230</y>
-      <width>68</width>
+      <x>40</x>
+      <y>250</y>
+      <width>91</width>
       <height>22</height>
      </rect>
     </property>
@@ -241,7 +244,7 @@ selection-color: rgb(0, 85, 255);</string>
     <property name="geometry">
      <rect>
       <x>430</x>
-      <y>230</y>
+      <y>250</y>
       <width>68</width>
       <height>22</height>
      </rect>
@@ -256,9 +259,9 @@ selection-color: rgb(0, 85, 255);</string>
    <widget class="QLabel" name="lblBWD">
     <property name="geometry">
      <rect>
-      <x>50</x>
-      <y>130</y>
-      <width>68</width>
+      <x>40</x>
+      <y>150</y>
+      <width>91</width>
       <height>22</height>
      </rect>
     </property>
@@ -274,8 +277,8 @@ selection-color: rgb(0, 85, 255);</string>
      <rect>
       <x>30</x>
       <y>90</y>
-      <width>80</width>
-      <height>30</height>
+      <width>111</width>
+      <height>61</height>
      </rect>
     </property>
     <property name="autoFillBackground">
@@ -334,8 +337,8 @@ color: rgb(0, 0, 0);</string>
      <rect>
       <x>560</x>
       <y>90</y>
-      <width>113</width>
-      <height>30</height>
+      <width>121</width>
+      <height>61</height>
      </rect>
     </property>
     <property name="styleSheet">
